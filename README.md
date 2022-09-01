@@ -23,8 +23,8 @@ Online shoppers are faced by a challenge when determining which product to buy. 
 
 ## Meet the team
 
-* Bandoro [LinkedIn]("insert link")   [Github]("insert link")
-* Muhamad Bagus Septian [LinkedIn](https://www.linkedin.com/in/muhamad-bagus-septian-55881173/)   [Github](https://github.com/bagus-septian)
+* Bandoro | [LinkedIn]("insert link") | [Github]("insert link")
+* Muhamad Bagus Septian | [LinkedIn](https://www.linkedin.com/in/muhamad-bagus-septian-55881173/) | [Github](https://github.com/bagus-septian)
 
 ## Refferences
 * https://www.drip.com/blog/e-commerce-statistics
