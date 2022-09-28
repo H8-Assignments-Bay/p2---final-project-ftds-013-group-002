@@ -23,7 +23,7 @@ Online shoppers are faced by a challenge when determining which product to buy. 
 
 ## Meet the team
 
-* Bandoro | [LinkedIn]("insert link") | [Github]("insert link")
+* Bandoro | [LinkedIn](www.linkedin.com/in/bandoro-gunarso-979443197) | [Github](https://github.com/bandorgun)
 * Muhamad Bagus Septian | [LinkedIn](https://www.linkedin.com/in/muhamad-bagus-septian-55881173/) | [Github](https://github.com/bagus-septian)
 
 ## Refferences
